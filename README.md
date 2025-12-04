@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 4 号添加
+#### fenh-z
+* :white_check_mark: [AI Headcanon Generator](https://headcanongen.com)：AI角色脑洞生成器 — 即刻创造你的原创人物与同人脑洞。
+
 #### Williams
 * :white_check_mark: [AI Excel Translator](https://aiexceltranslator.com/)：批量翻译 Excel 或 CSV 文档，支持 100+ 语言。
 
